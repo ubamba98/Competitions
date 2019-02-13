@@ -1,0 +1,23 @@
+All code was run on Google Colaboratory Notebook (https://colab.research.google.com/) using TPU.
+
+Libraries used: Tensorflow, skimage, numpy, math, sklearn, matplotlib and pandas 
+
+For preprocessing part image was resized to 1/4 of its original dimention and were normalized to reduce trainning time.
+
+* Train Wide Residual network (Basic implementation from: https://github.com/EricAlcaide/keras-wrn) and DenseNet91 (Basic implementation from: https://github.com/tdeboissiere DeepLearningImplementations/tree/master/DenseNet) for 150 epoch with MSE as loss function and IoU as metric. (Refer: train_DenseNet.py and train_wrn.py)
+* Get best model with least MSE and Max IoU.
+* Get predictions from both and use ensembling to get best out of both models. (Refer: test.py)
+
+-- Convolutional Neural Networks were used for feature extraction and Dense layers were used to get predictions
+-- Both models were trainned end to end.
+-- Data augmentation like Translation, Rotation and Flips were tried but doesnot seem to improve results.
+-- Overfitting was checked using spliting the data (75% trainning- 25% Validation)
+-- Various other models like ResNet, VGG16 were tried but were dropped because of large number of training parameters, which was leading to overfitting due to less number of trainning data.
+
+
+
+Team Name: by_going
+Udbhav Bamba
+GK Tejus
+Suyog Jadhav
+IIT(ISM), Dhanbad
