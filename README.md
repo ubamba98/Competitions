@@ -16,5 +16,5 @@
 * Solution | [Round 2](https://github.com/ubamba98/Kaggle/blob/master/Flipkart%20GRiD%20–%20Te[a]ch%20The%20Machines%20|%202019/Round%202)
 
 ### **[AV Game of Deep Learning Hackathon](https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/)**
-* Test F1 Achived: 0.97757 (Private Ranking Leaderboard) (Ranked 24 out of 2083 registered participants)
+* Test F1 Achived: 0.97757 (Private Ranking Leaderboard) (Ranked 18 out of 2083 registered participants)
 * [Solution](./AV_Game_of_DeepLearning)
