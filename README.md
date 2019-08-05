@@ -18,3 +18,8 @@
 ### **[AV Game of Deep Learning Hackathon](https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/)**
 * Test F1 Achived: 0.97757 (Private Ranking Leaderboard) (Ranked 18 out of 2083 registered participants)
 * [Solution](./AV_Game_of_DeepLearning)
+
+### Late Submissions
+#### [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
+* Test accuracy Achived: 63.6%
+* [Solution](./late_submissions/Sentiment_Analysis_on_Movie_Reviews.ipynb)
