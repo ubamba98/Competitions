@@ -19,7 +19,10 @@
 * Test F1 Achived: 0.97757 (Private Ranking Leaderboard) (Ranked 18 out of 2083 registered participants)
 * [Solution](./AV_Game_of_DeepLearning)
 
-### Late Submissions
-#### [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
+### [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
 * Test accuracy Achived: 63.6%
 * [Solution](./late_submissions/Sentiment_Analysis_on_Movie_Reviews.ipynb)
+
+### [APTOS 2019 Blindness Detection](https://kaggle.com/c/aptos2019-blindness-detection)
+* Test quadratic weighted kappa Achived: 0.922
+* [Solution](./APTOS_2019_Blindness_Detection/Final_Notebook.ipynb)
